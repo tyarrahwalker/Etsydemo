@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'carrierwave-dropbox'
 gem 'carrierwave'
 gem 'figaro'
 gem 'mini_magick'
